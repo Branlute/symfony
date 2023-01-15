@@ -1,10 +1,17 @@
 # Changelog
 
-## UNRELEASED
+## 4.0.0
 
 ### Added
 
 - Add option 'extraParams' for database's config
+- Add support for Symfony 6
+
+## 3.2.1
+
+### Added
+
+- Allow install on PHP 8
 
 ## 3.2.0
 
